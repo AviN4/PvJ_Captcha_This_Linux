@@ -41,7 +41,7 @@ python iptgen_pvj.py --enable-tcp-input-filtering --enable-udp-filtering --tcp-i
 
 ## Sample iptables rules
 
-You can find sample rules for the various server clases in [rules](rules/). They use the ports in [fwrules](..). They filtering for TCP ingress and UDP in both directions, but not TCP egress. Before applying any rules, please review them for accuracy and suitability.
+You can find sample rules for the various server clases in [rules](rules/). They use the ports in [fwrules](../fwrules). They filtering for TCP ingress and UDP in both directions, but not TCP egress. Before applying any rules, please review them for accuracy and suitability.
 
 ## Apply iptables rules
 

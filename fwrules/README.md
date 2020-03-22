@@ -32,4 +32,4 @@ This table errs on the side of more ports vs less, but we should narrow them dow
 
 ## Firewall rules on Linux (iptables)
 
-See [iptables](iptables).
+See [iptables](../iptables).
